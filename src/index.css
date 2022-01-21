@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bio-enter {
+  opacity: 0;
+}
+.bio-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+.bio-exit {
+  opacity: 1;
+}
+.bio-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}
