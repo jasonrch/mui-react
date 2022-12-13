@@ -11,7 +11,3 @@ Its hosted on heroku so the web dyno needs a few seconds to spin up. If you get 
 ### `Uses`
 
 You can filter users based off the search bar in the upper right, Add a new user from the form at the bottom of the page, and delete users with the delete button on the upper right of each card. I mainly just used this to test out material ui.
-
-#### `sidenote`
-
-If you are looking for some sweet jams while on the grind I recommend https://youtu.be/UyoYf7rZVGI
