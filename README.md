@@ -4,7 +4,7 @@ I made this to work with material-ui a little bit. I like a lot of the styles an
 
 ## Available here
 
-https://material-ui-react-user-app.herokuapp.com/
+https://afrosam.github.io/material-ui-react/
 
 Its hosted on heroku so the web dyno needs a few seconds to spin up. If you get an app error it should just be the web dyno waking and spinning up the app. Just refresh a few times and it should be good to go.
 
